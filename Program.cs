@@ -1,4 +1,4 @@
-﻿
+// mohammad mahdi almasi
 public class Program
 {
     public static void Main()
